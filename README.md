@@ -19,5 +19,5 @@ To use this input any messages you wish in ClientInput.py which will then get se
 To view messages look on ClientView.py andmessages will be on there
 
 Commands: (Only one)
-/connected (Lists all players conected to client, removes them if they close client by typing 'exit' (doesnt remove them if they close via the x button)
+/connected (Lists all players conected to client)
 *--*USAGE*--*
