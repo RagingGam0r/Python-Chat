@@ -8,7 +8,7 @@ grab ipv4 from cmd prompt (ipconfig /all)
 *--*SERVER SETUP*--*
 
 open server.py
-input ip address from cmd prompt
+input ip address from cmd prompt now leave it
 
 *--*SERVER SETUP*--*
 
