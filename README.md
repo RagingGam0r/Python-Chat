@@ -28,7 +28,7 @@ To view messages look on ClientView.py andmessages will be on there
 
 Commands: (Only one)
 
-/connected (Lists all players conected to client)
+/connected (Lists all players conected to server)
 
 *--*USAGE*--*
 
