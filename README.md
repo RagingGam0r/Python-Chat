@@ -21,7 +21,7 @@ grab ipv4 from cmd prompt (ipconfig /all) (rember this, this is used for people 
 
 #### To use this input any messages you wish in ClientInput.py which will then get sent to the server and then sent to all other clients. To view messages look on ClientView.py andmessages will be on there
 
-## __UI Setup__
+## __UI_Setup__
 
 ### __Server__
 
