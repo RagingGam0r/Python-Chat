@@ -34,3 +34,5 @@ grab ipv4 from cmd prompt (ipconfig /all) (rember this, this is used for people 
 ### __Usage__
 
 #### To send a message just input it in the input box and press "Submit", do this in server UI and send a message as the server
+
+#### Sometimes it errors apon opening it saying "app is not definied" just re-open the script
